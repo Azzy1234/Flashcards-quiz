@@ -1,0 +1,38 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    text-align: center;
+  }
+  
+  .flashcard {
+    border: 2px solid #333;
+    padding: 20px;
+    width: 300px;
+    margin: 0 auto;
+    background-color: #f9f9f9;
+  }
+  
+  .flashcard h2 {
+    margin-bottom: 20px;
+  }
+  
+  input {
+    padding: 10px;
+    width: 80%;
+    margin-bottom: 20px;
+  }
+  
+  button {
+    padding: 10px;
+    background-color: #28a745;
+    color: white;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .result {
+    margin-top: 10px;
+    font-size: 18px;
+    font-weight: bold;
+  }
+  
